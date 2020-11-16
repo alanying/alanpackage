@@ -9,6 +9,9 @@ import datetime
 
 pd.set_option('display.width', 200)
 
+def try_me():
+    name = input("What is your name?")
+    print(f"Hi there, {name}!")
 
 def clean_data(data):
     """ clean data
