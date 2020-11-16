@@ -1,0 +1,3 @@
+graft alanpackage
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  alanpackage/jupy *
